@@ -1,0 +1,99 @@
+{
+  "store_info": {
+    "name": "Fresh Harvest Fruit Market",
+    "location": "123 Orchard Lane, Green Valley",
+    "contact": "+1-555-0198"
+  },
+  "inventory": [
+    {
+      "id": "FRU-001",
+      "name": "Honeycrisp Apple",
+      "category": "Pome",
+      "price_per_kg": 3.99,
+      "stock_kg": 150,
+      "is_organic": true,
+      "origin": "USA"
+    },
+    {
+      "id": "FRU-002",
+      "name": "Cavendish Banana",
+      "category": "Tropical",
+      "price_per_kg": 1.29,
+      "stock_kg": 300,
+      "is_organic": false,
+      "origin": "Ecuador"
+    },
+    {
+      "id": "FRU-003",
+      "name": "Valencia Orange",
+      "category": "Citrus",
+      "price_per_kg": 2.49,
+      "stock_kg": 200,
+      "is_organic": false,
+      "origin": "Spain"
+    },
+    {
+      "id": "FRU-004",
+      "name": "Alphonso Mango",
+      "category": "Tropical",
+      "price_per_kg": 8.99,
+      "stock_kg": 85,
+      "is_organic": true,
+      "origin": "India"
+    },
+    {
+      "id": "FRU-005",
+      "name": "Red Globe Grape",
+      "category": "Berry",
+      "price_per_kg": 4.50,
+      "stock_kg": 110,
+      "is_organic": false,
+      "origin": "Chile"
+    },
+    {
+      "id": "FRU-006",
+      "name": "Hass Avocado",
+      "category": "Berry",
+      "price_per_kg": 6.99,
+      "stock_kg": 95,
+      "is_organic": true,
+      "origin": "Mexico"
+    },
+    {
+      "id": "FRU-007",
+      "name": "Sweet Charlie Strawberry",
+      "category": "Berry",
+      "price_per_kg": 5.99,
+      "stock_kg": 60,
+      "is_organic": true,
+      "origin": "USA"
+    },
+    {
+      "id": "FRU-008",
+      "name": "Golden Pineapple",
+      "category": "Tropical",
+      "price_per_kg": 2.99,
+      "stock_kg": 75,
+      "is_organic": false,
+      "origin": "Costa Rica"
+    },
+    {
+      "id": "FRU-009",
+      "name": "Bartlett Pear",
+      "category": "Pome",
+      "price_per_kg": 3.20,
+      "stock_kg": 130,
+      "is_organic": false,
+      "origin": "Argentina"
+    },
+    {
+      "id": "FRU-0010",
+      "name": "Seedless Watermelon",
+      "category": "Melon",
+      "price_per_kg": 0.99,
+      "stock_kg": 450,
+      "is_organic": false,
+      "origin": "USA"
+    }
+  ]
+}
